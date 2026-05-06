@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
     document.getElementById("responseMessage").innerHTML = 
       "Thanks " + name + "!<br>" +
       "I'll contact you at " + email + " or " + phone + "<br>" +
-      "for " + course + " on " + date + " to confirm you are still interested in playing.";
+      "for " + course + " before " + date + " to confirm you are still interested in playing.";
 
     form.reset();
   });
