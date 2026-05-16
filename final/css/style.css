@@ -24,13 +24,6 @@ nav ul {
     gap: 15px;
 }
 
-.hero {
-    background: url("../images/hero.jpg") no-repeat center/cover;
-    color: white;
-    padding: 100px 20px;
-    text-align: center;
-}
-
 .card, .product {
     border: 1px solid #ccc;
     padding: 10px;
